@@ -12,6 +12,7 @@ A list of resources to aid in super affordable purchases and ways to save money 
   - [Online Shops](#online-shops)
   - [Digital Storage](#digital-storage)
 - [Guides](#guides)
+- [Communities](#communities)
 
 ## Services
 
@@ -46,3 +47,12 @@ Price tracking and comparison for online stores with various products.
 **[`^        back to top        ^`](#)**
 
 - [/r/Frugal Wiki](https://www.reddit.com/r/Frugal/wiki/index/) - Reddit /r/Frugal community wiki.
+
+## Communities
+
+**[`^        back to top        ^`](#)**
+
+- [/r/Frugal](https://www.reddit.com/r/Frugal/wiki/index/) - Reddit /r/Frugal community. `Primarily US 🇺🇸`
+- [/r/UKFrugal](https://www.reddit.com/r/UKFrugal/) - "The UK version of /r/Frugal" `UK 🇬🇧`
+- [/r/frugalcanada](https://www.reddit.com/r/frugalcanada/) - "Frugal tips, tricks and deals for Canadians" `Canada 🇨🇦`
+- [/r/AUfrugal](https://www.reddit.com/r/AUfrugal/) - "Australian Specific Frugal Tips" `Australia 🇦🇺`
