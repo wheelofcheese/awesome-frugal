@@ -34,6 +34,7 @@ Price tracking and comparison for online stores with various products.
 
 - [Istoric Prețuri](https://www.istoric-preturi.info/) - Tracks the price of goods across different online stores. `Romania 🇷🇴`
 - [Pricy.ro](https://www.pricy.ro/) - Tracks the price of goods across different online stores. Provides a browser extension for easy use. Warns you to wait if it thinks something is not a good deal. `Romania 🇷🇴`
+- [Sharpest](https://sharpest.ai) - Compares price per unit (per roll, ounce, foot, TB) across Amazon and eBay, rechecked twice a day, with free price-drop email alerts. `US 🇺🇸`
 
 ### Digital Storage
 
